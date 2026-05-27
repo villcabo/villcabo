@@ -87,21 +87,13 @@ proxies inversos, identidad, observabilidad y bases de datos listas para despleg
 
 ### 📊 GitHub Stats
 
+<!-- Generado por GitHub Actions (.github/workflows/metrics.yml) y commiteado como archivo local: carga siempre. -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=villcabo&show_icons=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&include_all_commits=true" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villcabo&layout=compact&hide_border=true&title_color=0A66C2&langs_count=8" alt="Top languages"/>
+  <img src="./github-metrics.svg" alt="GitHub metrics — stats, top languages & achievements"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=villcabo&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub streak"/>
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=villcabo&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 </p>
 
 ---
