@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bismarck Villca</h1>
-<h3 align="center">Full-Stack Software Engineer &nbsp;•&nbsp; DevOps &nbsp;•&nbsp; Cloud Native</h3>
+<h3 align="center">Full-Stack Java Engineer (Spring Boot + Angular) &nbsp;•&nbsp; Fintech & Payments &nbsp;•&nbsp; Cloud Native / DevOps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/villcabo/" target="_blank">
@@ -18,24 +18,42 @@
 
 ### 🇬🇧 About me
 
-Full-Stack Software Engineer at [@SintesisSA](https://github.com/SintesisSA), based in Bolivia 🇧🇴.
-I build enterprise applications with **Spring Boot** and **Angular**, and ship them on
-**Docker** and **Kubernetes** with **CI/CD** pipelines (Jenkins, GitHub Actions, TeamCity).
-Most of my open-source work is **production-ready infrastructure** — reverse proxies,
-identity, observability and data stacks ready to deploy.
+Full-Stack **Java** Engineer at [@SintesisSA](https://github.com/SintesisSA), based in Bolivia 🇧🇴.
+I design and build enterprise **fintech & payments** platforms with **Spring Boot** and **Angular**,
+running on **Docker** and **Kubernetes** with solid **CI/CD** pipelines.
+
+I recently built **Crossborder Connect** — a cross-border payments platform that lets a Bolivian
+wallet pay a QR in **Argentina, Brazil or Peru** (and the other way around), all settled under the
+hood with **crypto / USDT**. I've also built payment rails across Bolivia: **debit & credit cards
+(Cybersource)**, **QR for every Bolivian bank**, **Tigo Money**, **international QR** and **Binance**
+integrations — so I work daily with **crypto assets** and real-money systems.
 
 ### 🇪🇸 Sobre mí
 
-Ingeniero de Software Full-Stack en [@SintesisSA](https://github.com/SintesisSA), desde Bolivia 🇧🇴.
-Construyo aplicaciones empresariales con **Spring Boot** y **Angular**, y las despliego sobre
-**Docker** y **Kubernetes** con pipelines de **CI/CD** (Jenkins, GitHub Actions, TeamCity).
-La mayoría de mi trabajo open-source son **stacks de infraestructura listos para producción**:
-proxies inversos, identidad, observabilidad y bases de datos listas para desplegar.
+Ingeniero Full-Stack **Java** en [@SintesisSA](https://github.com/SintesisSA), desde Bolivia 🇧🇴.
+Diseño y construyo plataformas de **fintech y pagos** con **Spring Boot** y **Angular**,
+sobre **Docker** y **Kubernetes** con pipelines de **CI/CD** robustos.
 
-- 🔭 Currently focused on **Cloud Native infrastructure & DevOps automation** / Enfocado en **infraestructura Cloud Native y automatización DevOps**
-- 🌱 Always learning **Kubernetes, observability & platform engineering**
-- 💬 Ask me about **Spring Boot · Angular · Docker · CI/CD**
+Recientemente construí **Crossborder Connect** — una plataforma de pagos transfronterizos que
+permite a una billetera boliviana pagar un QR de **Argentina, Brasil o Perú** (y al revés),
+liquidando todo por debajo con **cripto / USDT**. También he desarrollado pasarelas de pago en
+Bolivia: **tarjetas de débito y crédito (Cybersource)**, **QR de todos los bancos bolivianos**,
+**Tigo Money**, **QR internacional** e integraciones con **Binance** — trabajo a diario con
+**criptoactivos** y sistemas de dinero real.
+
+- 🔭 Building **cross-border payment rails** settled on crypto (USDT) / Construyendo **rieles de pago transfronterizos** liquidados en cripto (USDT)
+- 💳 Payments: **Cybersource, bank QR, Tigo Money, Binance, international QR**
+- 🌱 Deep into **Kubernetes, service mesh & secrets management** (Consul, Vault)
+- 💬 Ask me about **Spring Boot · Quarkus · Angular · Payments · Crypto**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/villcabo/)
+
+---
+
+### 🚀 Featured Project — Crossborder Connect
+
+> **EN** · Cross-border QR payments between **Bolivia 🇧🇴, Argentina 🇦🇷, Brazil 🇧🇷 & Peru 🇵🇪**, settled under the hood with **USDT**. Recently launched at Síntesis.
+>
+> **ES** · Pagos QR transfronterizos entre **Bolivia 🇧🇴, Argentina 🇦🇷, Brasil 🇧🇷 y Perú 🇵🇪**, liquidados por debajo con **USDT**. Presentado recientemente en Síntesis.
 
 ---
 
@@ -47,13 +65,16 @@ proxies inversos, identidad, observabilidad y bases de datos listas para despleg
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**Frameworks & Frontend**
+**Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Frontend**
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JHipster](https://img.shields.io/badge/JHipster-3E8ACC?style=for-the-badge&logo=jhipster&logoColor=white)
 
@@ -61,6 +82,8 @@ proxies inversos, identidad, observabilidad y bases de datos listas para despleg
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Consul](https://img.shields.io/badge/Consul-F24C53?style=for-the-badge&logo=consul&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=FFEC6E)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -75,6 +98,16 @@ proxies inversos, identidad, observabilidad y bases de datos listas para despleg
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana Alloy](https://img.shields.io/badge/Grafana_Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Payments & Crypto**
+
+![Cybersource](https://img.shields.io/badge/Cybersource-1A1A1A?style=for-the-badge&logo=visa&logoColor=white)
+![USDT](https://img.shields.io/badge/USDT-26A17B?style=for-the-badge&logo=tether&logoColor=white)
+![Binance](https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
+![Tigo Money](https://img.shields.io/badge/Tigo_Money-00388F?style=for-the-badge)
+![Bank QR](https://img.shields.io/badge/Bank_QR-009688?style=for-the-badge&logo=qrcode&logoColor=white)
 
 **Identity & Quality**
 
