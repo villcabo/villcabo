@@ -118,22 +118,6 @@ Bolivia: **tarjetas de débito y crédito (Cybersource)**, **QR de todos los ban
 
 ---
 
-### 📌 Featured Repositories
-
-Production-ready infrastructure stacks I maintain — ready to deploy with Docker Compose.
-
-| Repository | What it is |
-| --- | --- |
-| 🔭 [**monitor-docker**](https://github.com/villcabo/monitor-docker) | Prometheus + Grafana monitoring stack |
-| 📊 [**loki-docker**](https://github.com/villcabo/loki-docker) | Production-ready Loki log aggregation |
-| 🗄️ [**minio-docker**](https://github.com/villcabo/minio-docker) | Production-ready MinIO object storage |
-| 🚦 [**traefik-docker**](https://github.com/villcabo/traefik-docker) | Traefik reverse proxy & ingress |
-| 🔐 [**keycloak-docker**](https://github.com/villcabo/keycloak-docker) | Keycloak identity & access management |
-| 🐘 [**postgresql-docker**](https://github.com/villcabo/postgresql-docker) | PostgreSQL versions via Docker Compose |
-| 🤖 [**tradingview-mcp**](https://github.com/villcabo/tradingview-mcp) | AI-assisted TradingView chart analysis (MCP) |
-
----
-
 ### 🐍 Contribution Graph
 
 <!-- Generado por GitHub Actions (.github/workflows/snake.yml) y publicado en la rama `output`. -->
