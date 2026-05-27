@@ -134,6 +134,17 @@ Production-ready infrastructure stacks I maintain — ready to deploy with Docke
 
 ---
 
+### 🐍 Contribution Graph
+
+<!-- Generado por GitHub Actions (.github/workflows/snake.yml) y publicado en la rama `output`. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/villcabo/villcabo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/villcabo/villcabo/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/villcabo/villcabo/output/github-snake.svg" />
+</picture>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
